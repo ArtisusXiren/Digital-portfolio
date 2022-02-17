@@ -1,0 +1,50 @@
+.flex{
+display:flex;
+}
+.btn1{
+margin-left:3rem;
+height: 3rem;
+margin-top:2rem ;
+background-color:gray;
+color:black;
+padding:auto;
+border:transparent;
+transition:3s ease;   
+}
+.btn1:hover{
+ background-color:transparent;
+ color:white;
+ 
+}
+.container-class{
+    background:transparent;
+}
+.back{
+background-image: url(./images1/ron.jpg);
+background-size:cover;
+height: 1600px;
+
+}
+.btn .btn_primary{
+background-color:gray;
+color:black;
+padding:auto;
+border:transparent;
+transition:3s ease;
+}
+.btn .btn-primary:hover{
+    background-color:transparent;
+    color:antiquewhite;
+}
+.bhi{
+  background:url(./images1/OIP\ \(1\).jfif);
+  height:450px;
+  width: 1300px;
+}
+.btn2{
+  margin-bottom:10rem;
+  margin-left: 5rem;
+  height: 3rem;
+  background:border-box;
+  color:wheat
+}
